@@ -1,0 +1,10 @@
+SovsGame is a game which involves clicking on panels.
+
+Click on the panels fast enough so all the panels are
+working at the same time.
+
+The number on each panel indicate for how long it will
+be working.
+
+SovsGame relies on OmniThreadLibrary, so you'll need
+this to compile.
