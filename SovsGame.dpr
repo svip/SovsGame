@@ -1,4 +1,4 @@
-program SleepingButtons;
+program SovsGame;
 
 uses
   Vcl.Forms,
