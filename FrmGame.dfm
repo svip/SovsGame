@@ -1,0 +1,19 @@
+object GameForm: TGameForm
+  Left = 0
+  Top = 0
+  Caption = 'GameForm'
+  ClientHeight = 323
+  ClientWidth = 323
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnShow = FormShow
+  PixelsPerInch = 120
+  TextHeight = 16
+end
